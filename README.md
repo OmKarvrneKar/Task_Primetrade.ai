@@ -165,20 +165,6 @@ JWT_EXPIRES_IN=7d
 
 ---
 
-## 🚀 Deployment
 
-### Backend → Render.com (Free)
-1. Connect GitHub repo
-2. Root directory: `backend`
-3. Build: `npm install` | Start: `node server.js`
-4. Add env variables in dashboard
-
-### Frontend → Vercel (Free)
-1. Connect GitHub repo
-2. Root directory: `frontend`
-3. Framework: Vite — auto-detected
-4. Set `VITE_API_URL` env variable to your Render backend URL
-
----
 
 *Built with ❤️ for Primetrade.ai Backend Developer Intern Assignment*
